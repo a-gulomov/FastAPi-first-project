@@ -47,7 +47,7 @@ curl -X 'POST' 'http://127.0.0.1:8000/todos' \
 To test the API using Swagger UI, open **http://127.0.0.1:8000/docs** in your browser.
 
 ### Additional code file
-![Get Steps](images/fastAPI-first-project.pdf)
+![Get Steps file](images/fastAPI-first-project.pdf)
 
 
 ## 📜 Author
