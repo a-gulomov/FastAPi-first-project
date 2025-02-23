@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# FastAPI-specific
+instance/
+
+# Logs and local environment files
+*.log
+.env
+.env.*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor and IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+
+# Testing and coverage
+.tox/
+.nox/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Mypy type checking
+.mypy_cache/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Build and distribution
+build/
+dist/
+*.egg-info/
+
+# Docker
+.dockerignore
+docker-compose.override.yml
+
+# PostgreSQL / SQLite database files
+*.db
+*.sqlite3
